@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭 I’m currently working on Javascript, React
+
 <!--
 **manojmr-23/manojmr-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
