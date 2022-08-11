@@ -28,7 +28,7 @@ I am a React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ---
 
 
-### 📋: My Projects :
+### 📋 My Projects :
 
 - Maintenance and enhancement of systems which provide entertainment data solution to customers for a leading American
 entertainment magazine. It provides verified, timely, and accurate metadata around people, projects, and companies that work in the
