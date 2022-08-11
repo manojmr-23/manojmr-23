@@ -1,6 +1,6 @@
 I am a React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope:I’m working as React Developer and contributing to frontend for building web applications
+- :telescope: I’m working as React Developer and contributing to frontend for building web applications
 
 - :seedling: Exploring Technical Content Writing.
 
