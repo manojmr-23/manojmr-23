@@ -2,12 +2,13 @@
 
 I am a React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
+- Team Lead with 14 years of experience in the IT industry
+
 - Strong development experience in React, JavaScript, jQuery, PHP, HTML
 
-- Team lead and management experience
+- Good knowledge of application development processes, including database design, user interface, e-commerce, web services
 
 - Extensive experience in communicating and working with US Clients
-
 
 ---
 
