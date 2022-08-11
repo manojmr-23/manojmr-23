@@ -27,6 +27,19 @@ I am a React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ---
 
+
+### 📋: My Projects :
+
+- Maintenance and enhancement of systems which provide entertainment data solution to customers for a leading American
+entertainment magazine. It provides verified, timely, and accurate metadata around people, projects, and companies that work in the
+global entertainment business.
+
+- Building a Social Cloud Music Locker that lets users chat with friends and listen to music in real-time.
+
+- Embed-able store widget for an American music company
+
+---
+
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manojmr-23&theme=dark&background=000000)](https://git.io/streak-stats)
