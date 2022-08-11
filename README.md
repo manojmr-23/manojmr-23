@@ -4,7 +4,7 @@ I am a React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 - :telescope: I’m working as React Developer and contributing to frontend for building web applications
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Advanced React+Redux
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
