@@ -25,6 +25,8 @@ I am a React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ### :fire: My Stats :
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manojmr-23&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <!--
 **manojmr-23/manojmr-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
