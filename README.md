@@ -1,3 +1,4 @@
+---
 ### :man_technologist: About Me :
 
 I am a React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
@@ -7,6 +8,8 @@ I am a React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 - :seedling: Exploring Advanced React+Redux
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
