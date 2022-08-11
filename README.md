@@ -2,9 +2,11 @@
 
 I am a React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as React Developer and contributing to frontend for building web applications
+- Strong development experience in React, JavaScript, jQuery, PHP, HTML
 
-- :seedling: Exploring Advanced React+Redux
+- Team lead and management experience
+
+- Extensive experience in communicating and working with US Clients
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
