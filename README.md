@@ -8,7 +8,6 @@ I am a React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 - Extensive experience in communicating and working with US Clients
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 ---
 
